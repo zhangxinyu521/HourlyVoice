@@ -1,0 +1,9 @@
+{
+    "api": {
+        "url": "https://xiaoapi.cn/API/zs_zdbs.php"
+    },
+    "auto_report": {
+        "enabled": false,
+        "channels": []
+    }
+} 
